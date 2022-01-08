@@ -20,6 +20,13 @@ body{
     margin-top: 2%;
     margin-bottom: 2%;
 }
+.about-border {
+    display: block;
+    width: 150px;
+    height: 3px;
+    background: white;
+    margin: 10px auto;
+}
 #wwo_left_side{
     background-image: url(../images/nav_side.jpg);
     background-repeat: no-repeat;
