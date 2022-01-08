@@ -1,11 +1,14 @@
 body{
-    background-image: url(../images/nza_background.jpg)
+    background-image: url(../images/nza_background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 #white_background{
     background-color: white;
     margin-top: 2%;
+    margin-bottom: 2%;
     width: 80%;
-    Height: 92vh;
+    Height: 100%;
     padding-left: 2%;
     padding-right: 2%;
     padding-bottom: 2%;
@@ -17,7 +20,26 @@ body{
     margin-top: 2%;
     margin-bottom: 2%;
 }
+#wwo_left_side{
+    background-image: url(../images/nav_side.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    height: 100%;
+    padding-top: 6%;
+    padding-bottom: 2%;
+}
+#wwo_left_side > ul{
+    list-style-type: none;  
+}
+#text{
+    padding-bottom: 2%;
+}
+#row2{
+    padding-top: 2%;
+}
 footer{
+    margin-top: 2%;
     border-top: 2px solid black;
     text-align: center;
 }
