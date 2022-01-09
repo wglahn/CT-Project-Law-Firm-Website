@@ -50,6 +50,7 @@ footer > a{
 }
 /* End of Wade's CSS */
 
+/* Start of Kristens's CSS */
 .about-border {
     display: block;
     width: 150px;
@@ -57,3 +58,8 @@ footer > a{
     background: white;
     margin: 10px auto;
 }
+#bg-img{
+    width: 98%;
+    margin-left: 0px;
+}
+/* End of Kristen's CSS */
