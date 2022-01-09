@@ -63,3 +63,11 @@ footer > a{
     margin-left: 0px;
 }
 /* End of Kristen's CSS */
+/* start of Chelsey's css */
+#sidebar{
+    background-image: url(../images/nav_side_sub.jpg);
+    color:white;
+    max-height: 300px;
+    max-width: 220px;
+}
+/* end of Chelsey'c CSS */
